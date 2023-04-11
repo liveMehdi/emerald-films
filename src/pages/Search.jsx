@@ -80,7 +80,7 @@ function Search() {
   return (
     <div className="flex-1">
       {/* Search & Filters */}
-      <div className="bg-darkest border-t border-dark">
+      <div className="">
         <div className="container mx-auto max-w-7xl p-6 md:py-3 flex flex-col md:flex-row gap-y-4 md:items-center justify-between">
           <form
             onSubmit={onSubmit} 
