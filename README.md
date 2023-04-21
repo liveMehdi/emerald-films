@@ -6,7 +6,7 @@
 
 
 ## About
-Emerald films is a movie application which uses the TMDB API.
+Emerald films is a movie database application which uses the TMDB API.
 
 https://emerald-films.vercel.app/
 
